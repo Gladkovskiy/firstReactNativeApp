@@ -7,7 +7,7 @@ import Weather from './components/Weather.jsx'
 import {useEffect, useState} from 'react'
 import axios from 'axios'
 
-const API_KEY = 'd3320f8ddc1c02506e393ddedbe577f8'
+const API_KEY = 'you api key'
 
 export default function App() {
   const [status, requestPermission] = Location.useForegroundPermissions()

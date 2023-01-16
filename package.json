@@ -1,5 +1,5 @@
 {
-  "name": "firstapp",
+  "name": "firstApp",
   "version": "1.0.0",
   "main": "node_modules/expo/AppEntry.js",
   "scripts": {
@@ -23,8 +23,7 @@
   "devDependencies": {
     "@babel/core": "^7.12.9",
     "eslint": "^8.0.0",
-    "eslint-config-react-app": "^7.0.1",
-    "eslint-config-universe": "^11.1.0"
+    "eslint-config-react-app": "^7.0.1"
   },
   "private": true
 }
